@@ -6,4 +6,4 @@ five
 dfa
 :
 color
-color2
+dddddd color2
